@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
-<h3 align="center">A college student</h3>
+<h3 align="center">A college student 1st year</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
